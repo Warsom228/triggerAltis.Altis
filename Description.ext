@@ -1,0 +1,16 @@
+class CfgFunctions {
+    class trg {
+		class trigger {
+			class spawnVehicles {};
+			class spawnTrigger {};
+			class setSkill {};
+			class findTrgRandPos {};
+			class pointSpawn {};
+			class patrolGroups {};
+			class inHouseSpawn {};
+			class spawnHeli {};
+      class objectMapper{};
+      class compositionsMap{};
+		};
+    };
+};
