@@ -45,5 +45,4 @@ for "_i" from 0 to ((count _objs) - 1) do
 	if (!isNil "_damage") then {_newObj setDamage _damage};
 	["Imma spamming your log!","BIS_fnc_log"] spawn BIS_fnc_MP;
 	_newObjs = _newObjs + [_newObj];
-
 };
